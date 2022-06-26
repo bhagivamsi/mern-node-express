@@ -1,0 +1,16 @@
+{
+  "name": "assignment-1-fs-ops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Vamsi\"",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.18.0",
+    "express": "^4.18.1",
+    "prompt-sync": "^4.2.0"
+  }
+}
